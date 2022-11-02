@@ -1,4 +1,5 @@
-:warning # Desafio Github primeiro Repositorio
-## Projeto DIO sobre Git/Github :constrution
+# Desafio Github primeiro Repositorio
+## Projeto DIO sobre Git/Github 
+🚧            ⚠️                🏢
 
  - 
